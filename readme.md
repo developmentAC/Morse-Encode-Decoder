@@ -8,7 +8,7 @@
 
 [![BLM](https://img.shields.io/badge/BlackLivesMatter-yellow)](https://blacklivesmatter.com/)
 
-GitHub link: https://github.com/developmentAC/beagleTM
+GitHub link: https://github.com/developmentAC/Morse-Encode-Decoder
 
 ---
 
