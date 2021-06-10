@@ -18,4 +18,13 @@ Learning Morse Code has never been so much fun! This tool allows the user to con
 ![logo](graphics/animation_morse.gif)
 
 
+---
+
+#### Operations
+
++ To run the tool's online help, type, `morseEncodeDecoder.py -h`
++ To enter text or code: `morseEncodeDecoder.py` and you will be prompted to add clear-text or Morse code. The program will determine the nature of the input and will make the proper conversion automatically.
+
+
+
 --. --- / --. . - / .----. . --
