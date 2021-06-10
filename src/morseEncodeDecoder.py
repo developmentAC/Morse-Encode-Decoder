@@ -3,7 +3,7 @@
 
 
 from collections import Counter
-import sys, getopt, random
+import sys, random
 
 DATE = "9 June 2021"
 VERSION = "iii"
