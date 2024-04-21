@@ -179,7 +179,7 @@ def myMorseDecoder(msg_str):
 	mesg_str = printWithColour(BICyan, "\n\tDecoding ... \n")
 	print(mesg_str)
 
-	msg_list = msg_str.split() # make a list from the string. seperate by spaces
+	msg_list = msg_str.split() # make a list from the string. separate by spaces
 	out_str = "" # build the text string on this
 	for i in msg_list:
 		for letter in morse_dict:
